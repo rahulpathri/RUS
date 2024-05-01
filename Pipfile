@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+
+mysql-connector-python = "*"
+xlsxwriter = "*"
+scipy = "*"
+librosa = "*"
+python-speech-features = "*"
+sympy = "*"
+wavio = "*"
+pandas = "*"
+numpy = "*"
+xlrd = "*"
+
+[requires]
+python_version = "2.7"
